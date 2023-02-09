@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Md Bappy</h1>
 <h3 align="center">A passionate CSE student from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **Java Programming language.**
+- 🌱 I’m currently learning **Everythings**
 
 - 📫 How to reach me **bappy15-5656@diu.edu.bd**
 
